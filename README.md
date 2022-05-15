@@ -33,7 +33,7 @@
 
 ## :iphone: Como visualizar
 
-<p>Para testar o projeto, basta cloná-lo para sua máquina, acessar a pasta do mesmo e inserir o comando "yarn" e posteriormente "yarn start" em seu terminal de preferência!</p>
+<p>Para testar o projeto, basta cloná-lo para sua máquina, acessar a pasta do mesmo e inserir o comando "yarn", e posteriormente "yarn server" em seu terminal de preferência. E em um segundo terminal, executar o comando "yarn start"!</p>
 
 ---
 
